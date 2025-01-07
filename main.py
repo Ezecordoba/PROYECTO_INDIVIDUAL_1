@@ -156,8 +156,7 @@ def get_director(director: str):
 
 @app.get("/sist_recomendacion_con_matriz/",tags=["Recomendación de Películas"])
 def recomendacion(titulo: str) -> List[str]:
-    '''Devuelve una lista de películas recomendadas basadas en el título ingresado. Como en esta funcion calcula la matris de comparacíon
-    con la similitud del conseno, puede tardar al rededor de 5 minutos de correr.'''
+    '''Devuelve una lista de películas recomendadas basadas en el título ingresado.'''
     try:
         texto1=texto.copy()
         titulo_normalizado = normalizacion(titulo)
