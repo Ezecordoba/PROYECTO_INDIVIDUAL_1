@@ -41,6 +41,8 @@ A continuación, se explica el contenido de cada archivo, notebook y directorio 
 
 - **`Database`**
   Aquí se encuentran las tablas de hecho y las de dimensión de la base de datos
+
+---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
   
 **`Resumen del procesamiento realizado sobre el dataset movies_dataset.csv`**
 
