@@ -14,9 +14,9 @@ nltk.download('stopwords')
 nltk.download('punkt_tab')
 
 # Cargar los datasets como variables globales
-movies = pd.read_csv('Database/movies_reducido.csv', delimiter=',', encoding="utf-8")
+movies = pd.read_csv('Database/movies_normalizado.csv', delimiter=',', encoding="utf-8")
 titulos = pd.read_csv('Database/titles.csv', delimiter=',', encoding="utf-8")
-credit = pd.read_csv('Database/credits_reducido.csv', delimiter=',', encoding="utf-8")
+credit = pd.read_csv('Database/credits_normalizado.csv', delimiter=',', encoding="utf-8")
 franchises = pd.read_csv('Database/franchise.csv', delimiter=',', encoding="utf-8")
 languages = pd.read_csv('Database/languages.csv', delimiter=',', encoding="utf-8")
 texto = pd.read_csv('Sistema_de_recomendacion/texto_peliculas.csv', delimiter=',', encoding='utf-8')
