@@ -42,7 +42,8 @@ A continuación, se explica el contenido de cada archivo, notebook y directorio 
 - **`Database`**
   Aquí se encuentran las tablas de hecho y las de dimensión de la base de datos
 **`Resumen del procesamiento realizado sobre el dataset movies_dataset.csv`**
-Se eliminó la columna anidada `spoken_languages` ya que no es util para el análisis. A las columnas anidadas `genres`, `production_companies`, `production_countries` fueron convertidas a columnas con una lista de los géneros, companias productoras y parises productores respectivamente. De la columna `belongs_to_collection` la única información util era la del nombre de la franquicia a la que pertenece la película, ya que es un buen parámetro para agruparlas. Tambien se cambió el id original de la tabla para cambiarlo por un nuevo Id_movies que arranca desde 1. A partir de este dataset tambien se crearon las tablas de dimension que nos permitieron eliminar las columnas `franchise`, `status`, `language` y `title` para solo dejar los id's correspondientes a cada una.
+  Se eliminó la columna anidada `spoken_languages` ya que no es util para el análisis. A las columnas anidadas `genres`, `production_companies`, `production_countries` fueron convertidas a   columnas con una lista de los géneros, companias productoras y parises productores respectivamente. De la columna `belongs_to_collection` la única información util era la del nombre de     la franquicia a la que pertenece la película, ya que es un buen parámetro para agruparlas. Tambien se cambió el id original de la tabla para cambiarlo por un nuevo Id_movies que arranca    desde 1. A partir de este dataset tambien se crearon las tablas de dimension que nos permitieron eliminar las columnas `franchise`, `status`, `language` y `title` para solo dejar los     
+  id's   correspondientes a cada una.
 
 **`Resumen del procesamiento realizado sobre el dataset credits.csv`**
 
