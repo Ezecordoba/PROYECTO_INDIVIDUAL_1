@@ -1,0 +1,163 @@
+cod_production_countri,production_countri,Id_production_countri
+US,United States of America,1
+DE,Germany,2
+GB,United Kingdom,3
+FR,France,4
+IT,Italy,5
+CN,China,6
+AU,Australia,7
+ZA,South Africa,8
+CA,Canada,9
+Sin Dato,Sin Dato,10
+BE,Belgium,11
+IR,Iran,12
+NL,Netherlands,13
+HK,Hong Kong,14
+TN,Tunisia,15
+DO,Dominican Republic,16
+HR,Croatia,17
+JP,Japan,18
+AT,Austria,19
+IE,Ireland,20
+TW,Taiwan,21
+NZ,New Zealand,22
+MX,Mexico,23
+PE,Peru,24
+CU,Cuba,25
+DK,Denmark,26
+FI,Finland,27
+ES,Spain,28
+IS,Iceland,29
+KR,South Korea,30
+RS,Serbia,31
+SE,Sweden,32
+IN,India,33
+AR,Argentina,34
+BR,Brazil,35
+SN,Senegal,36
+BF,Burkina Faso,37
+HU,Hungary,38
+PH,Philippines,39
+CZ,Czech Republic,40
+VN,Vietnam,41
+CH,Switzerland,42
+TT,Trinidad and Tobago,43
+CL,Chile,44
+PT,Portugal,45
+RU,Russia,46
+NO,Norway,47
+UA,Ukraine,48
+BW,Botswana,49
+AW,Aruba,50
+IL,Israel,51
+LU,Luxembourg,52
+PL,Poland,53
+EC,Ecuador,54
+LB,Lebanon,55
+BA,Bosnia and Herzegovina,56
+BS,Bahamas,57
+MK,Macedonia,58
+MY,Malaysia,59
+BT,Bhutan,60
+BG,Bulgaria,61
+JM,Jamaica,62
+GR,Greece,63
+CI,Cote D'Ivoire,64
+TH,Thailand,65
+NA,Namibia,66
+CM,Cameroon,67
+CO,Colombia,68
+LY,Libyan Arab Jamahiriya,69
+DZ,Algeria,70
+TR,Turkey,71
+SU,Soviet Union,72
+SI,Slovenia,73
+AF,Afghanistan,74
+SG,Singapore,75
+TJ,Tajikistan,76
+RO,Romania,77
+XC,Czechoslovakia,78
+MQ,Martinique,79
+GE,Georgia,80
+AM,Armenia,81
+EG,Egypt,82
+ID,Indonesia,83
+MN,Mongolia,84
+MC,Monaco,85
+UY,Uruguay,86
+VE,Venezuela,87
+LT,Lithuania,88
+RW,Rwanda,89
+PS,Palestinian Territory,90
+XG,East Germany,91
+MA,Morocco,92
+ML,Mali,93
+EE,Estonia,94
+UM,United States Minor Outlying Islands,95
+LV,Latvia,96
+TD,Chad,97
+KZ,Kazakhstan,98
+AE,United Arab Emirates,99
+LR,Liberia,100
+YU,Yugoslavia,101
+CR,Costa Rica,102
+BY,Belarus,103
+BO,Bolivia,104
+KH,Cambodia,105
+IQ,Iraq,106
+MR,Mauritania,107
+CY,Cyprus,108
+BD,Bangladesh,109
+PK,Pakistan,110
+SY,Syrian Arab Republic,111
+KG,Kyrgyz Republic,112
+CD,Congo,113
+TZ,Tanzania,114
+JO,Jordan,115
+SK,Slovakia,116
+UG,Uganda,117
+SA,Saudi Arabia,118
+ET,Ethiopia,119
+AL,Albania,120
+QA,Qatar,121
+LK,Sri Lanka,122
+PG,Papua New Guinea,123
+AO,Angola,124
+NG,Nigeria,125
+PY,Paraguay,126
+PR,Puerto Rico,127
+PA,Panama,128
+GT,Guatemala,129
+MM,Myanmar,130
+BM,Bermuda,131
+LA,Lao People's Democratic Republic,132
+MT,Malta,133
+UZ,Uzbekistan,134
+WS,Samoa,135
+NI,Nicaragua,136
+ME,Montenegro,137
+GH,Ghana,138
+SV,El Salvador,139
+BN,Brunei Darussalam,140
+NP,Nepal,141
+LI,Liechtenstein,142
+KP,North Korea,143
+AZ,Azerbaijan,144
+KW,Kuwait,145
+ZW,Zimbabwe,146
+MO,Macao,147
+KY,Cayman Islands,148
+CS,Serbia and Montenegro,149
+MG,Madagascar,150
+CG,Congo,151
+KE,Kenya,152
+TF,French Southern Territories,153
+GI,Gibraltar,154
+GN,Guinea,155
+PF,French Polynesia,156
+BB,Barbados,157
+MD,Moldova,158
+AN,Netherlands Antilles,159
+AQ,Antarctica,160
+SO,Somalia,161
+HN,Honduras,162
