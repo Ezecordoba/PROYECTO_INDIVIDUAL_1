@@ -34,7 +34,7 @@ A continuación, se explica el contenido de cada archivo, notebook y directorio 
 
 - **`EDA.ipynb`**  
   Presenta el Análisis Exploratorio de Datos (EDA) realizado sobre el dataset 
-  `movies_normalizado.csv`.
+  `movies_normalizado.csv`. En este se analizaron algunas líneas de tiempo relevantes con sus respectivos posibles outliers y además se buscó responder a las pregunta de que, si quisiera dirigir una película, en que género debería enfocarme para optimizar el retorno de esta.
   
 - **`Creacion_database`**
   Aquí se presentan los archivos .py que crean las tablas de dimensión
